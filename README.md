@@ -4,7 +4,7 @@
 &nbsp;<a href="https://en.wikipedia.org/wiki/India"><img src="https://img.shields.io/badge/INDIA-red?style=for-the-badge&logo=Google%20Earth&logoColor=black" alt="India"></a></h1>
   
 ## 💡 About
-<a href="https://github.com/NNBnh">
+<a href="https://github.com/agam778">
   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=agam778&theme=dark&show_icons=true)">
   <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=agam778&theme=dark">
 </a>
