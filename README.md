@@ -11,7 +11,7 @@
 
 Hi, my name is **Agampreet Singh**. I am:
 
-- 🇮🇳 A boy born and grew up in India
+- 🇮🇳 He/Him from India
 - 💻 A developer (small projects right now and still learning)
 - 📹 A YouTuber on Tech Stuff
 
@@ -21,7 +21,7 @@ Currently Working on:
 
 - [CannyBot](https://github.com/agam778/CannyBot) - An Intelligent and Cool Bot with Many Commands like Fun, Image, Tech, and many more!
 - [MS Office - Electron](https://github.com/agam778/MS-Office-Electron) - An MS Office Online Electron Wrapper for free!
-- And More! Check the pinned repos below.
+- And More! Check the repositories tab.
 
 ## 🌏 Social
 
@@ -55,3 +55,5 @@ Here is a list of technologies that i have experience with:
 [![Debian](https://img.shields.io/badge/-Debian-purple?style=for-the-badge&logo=debian&logoColor=FFFFFF)](https://debian.org)
 [![EndeavourOS](https://img.shields.io/badge/EndeavourOS-%2335BF5C.svg?style=for-the-badge&logo=linux&logoColor=FFFFFF)](https://endeavouros.com)
 [![Windows](https://img.shields.io/badge/windows%20-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=FFFFFF)](https://www.microsoft.com/en-gb/software-download/windows10)
+
+# TODO: update the list
