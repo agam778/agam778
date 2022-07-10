@@ -56,4 +56,4 @@ Here is a list of technologies that i have experience with:
 [![EndeavourOS](https://img.shields.io/badge/EndeavourOS-%2335BF5C.svg?style=for-the-badge&logo=linux&logoColor=FFFFFF)](https://endeavouros.com)
 [![Windows](https://img.shields.io/badge/windows%20-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=FFFFFF)](https://www.microsoft.com/en-gb/software-download/windows10)
 
-# TODO: update the list
+[//]: <> (TODO: update the list)
